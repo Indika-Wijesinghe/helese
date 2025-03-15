@@ -138,7 +138,7 @@ const testimonialScroll = (direction = "right") => {
 
 const gallery = document.getElementById("gallery");
 
-Array.from({ length: 23 }, (_, i) => i).map((index) => {
+Array.from({ length: 18 }, (_, i) => i).map((index) => {
   const img = document.createElement("img");
 
   img.classList.add("h-auto", "max-w-full", "rounded-lg");
