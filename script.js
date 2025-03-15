@@ -59,7 +59,7 @@ const testimonials = [
 
 let isAnimating = false;
 let currentScroll = 0;
-const scrollAmount = 390;
+const scrollAmount = 380;
 let currentItem = 0;
 
 function displayTestimonials(testimonials) {
@@ -82,7 +82,7 @@ function displayTestimonials(testimonials) {
     <img src="public/icons/quotes-fill.svg" class="mx-auto"> 
     <p class="testimonial-text mt-5">${testimonial.testimonial}</p>
     <div class="flex items-center justify-start gap-2 mt-5">
-    <h3>${testimonial.name}</h3> |
+    <h3 class="oswald">${testimonial.name}</h3> |
     <p class="country">${testimonial.country}</p>
     </div>
     `;

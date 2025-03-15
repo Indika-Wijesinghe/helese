@@ -145,7 +145,7 @@ header .content {
 
 .testimonial-card {
   width: 100%;
-  min-width: 350px;
+  min-width: 340px;
 }
 
 @media (min-width: 640px) {
