@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Alice Johnson",
+        "country": "United States",
+        "testimonial": "Absolutely amazing experience! The itinerary was well-planned, and the guides were incredibly knowledgeable.",
+        "image": "/images/testimonials/alice-johnson.jpg"
+    },
+    {
+        "name": "Carlos Rivera",
+        "country": "Spain",
+        "testimonial": "This was the best trip of my life! Everything was smooth and perfectly arranged. Highly recommended!",
+        "image": "/images/testimonials/carlos-rivera.jpg"
+    },
+    {
+        "name": "Priya Sharma",
+        "country": "India",
+        "testimonial": "A truly unforgettable journey! The food, culture, and scenic beauty were beyond words.",
+        "image": "/images/testimonials/priya-sharma.jpg"
+    },
+    {
+        "name": "William Anderson",
+        "country": "Canada",
+        "testimonial": "I had a fantastic time! The customer service was excellent, and the travel experience was seamless.",
+        "image": "/images/testimonials/william-anderson.jpg"
+    },
+    {
+        "name": "Sophie Müller",
+        "country": "Germany",
+        "testimonial": "Loved every bit of the adventure! The accommodations were top-notch, and the local experiences were authentic.",
+        "image": "/images/testimonials/sophie-muller.jpg"
+    },
+    {
+        "name": "Luca Bianchi",
+        "country": "Italy",
+        "testimonial": "The perfect travel experience! I discovered hidden gems and met wonderful people along the way.",
+        "image": "/images/testimonials/luca-bianchi.jpg"
+    },
+    {
+        "name": "Aiko Tanaka",
+        "country": "Japan",
+        "testimonial": "Everything was well-organized, and I felt completely at ease throughout my journey. Amazing trip!",
+        "image": "/images/testimonials/aiko-tanaka.jpg"
+    },
+    {
+        "name": "Omar El-Sayed",
+        "country": "Egypt",
+        "testimonial": "Breathtaking landscapes and warm hospitality! I can’t wait for my next adventure with this company.",
+        "image": "/images/testimonials/omar-el-sayed.jpg"
+    }
+]
